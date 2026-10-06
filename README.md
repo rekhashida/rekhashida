@@ -3,7 +3,7 @@
 **Data Analyst • Data Scientist • ML Builder**
 
 Final-year Computer Engineering student at Parul University, Vadodara.
-I turn messy data into decisions — cleaning it, finding the story in it,
+I turn messy data into decisions - cleaning it, finding the story in it,
 and shipping the result as a dashboard or a live app.
 
 ---
@@ -14,7 +14,7 @@ and shipping the result as a dashboard or a live app.
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Customer Churn Prediction](https://github.com/rekhashida/customer-churn-prediction) | Predicts telecom churn — 79.84% accuracy, live Streamlit app | Python, Scikit-learn, XGBoost, Streamlit |
+| [Customer Churn Prediction](https://github.com/rekhashida/customer-churn-prediction) | Predicts telecom churn - 79.84% accuracy, live Streamlit app | Python, Scikit-learn, XGBoost, Streamlit |
 | [E-commerce Sales Analysis](https://github.com/rekhashida/ecommerce-sales-analysis) | Found $100K+ losses across 9,994 orders | Python, SQL, Power BI |
 | [COVID-19 India EDA](https://github.com/rekhashida/covid19-india-eda) | State-wise analysis of 36 states with Power BI dashboard | Python, Plotly, Power BI, SQL |
 | [A/B Testing Analysis](https://github.com/rekhashida/ab-testing-analysis) | Statistical test showed new landing page should not launch | Python, SciPy, StatsModels |
