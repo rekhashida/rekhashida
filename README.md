@@ -61,4 +61,4 @@ and shipping the result as a dashboard or a live app.
 [![LeetCode](https://img.shields.io/badge/LeetCode-rekha__shida-orange?style=flat&logo=leetcode)](https://leetcode.com/u/rekha_shida/)
 
 📧 rekhashida5@gmail.com
-🌐 rekha-sida-portfolio.vercel.app
+🌐 [rekha-sida-portfolio.vercel.app](https://rekha-sida-portfolio.vercel.app/)
